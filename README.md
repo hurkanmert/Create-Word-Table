@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Run the main script to start video analysis and heatmap generation:
 
 ```bash
-python main_script.py
+python main.py
 ```
 
 ## ⚙️ Configuration
