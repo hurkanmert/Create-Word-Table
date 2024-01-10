@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ### Usage
 
-Run the main script to start video analysis and heatmap generation:
+Run the main script to create table:
 
 ```bash
 python main.py
@@ -30,4 +30,16 @@ python main.py
 
 ## ⚙️ Configuration
 
-###variables---
+sep_arg_one and sep_arg_two variables are required to limit the frequency log file. Likewise, sep_arg_three and sep_arg_four are used as necessary variables to limit the geometry log file.
+
+```bash
+sep_arg_one = "normal coordinates:"
+sep_arg_two = "Thermochemistry"
+sep_arg_three = "Optimized Parameters"
+sep_arg_four = "Stoichiometry"
+```
+
+## 🤘🏻 rock n roll
+
+If you have questions or would like more information, please feel free to email me.<br>
+<b>hurkanmertd@gmail.com</b>
